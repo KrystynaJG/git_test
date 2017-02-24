@@ -1,0 +1,1 @@
+This is Krystyny first git project!
